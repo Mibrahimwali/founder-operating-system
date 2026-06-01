@@ -1,0 +1,40 @@
+# Founder Operating System
+
+Public founder knowledge base — leadership, hiring, culture, fundraising, and scaling startups.
+
+**Author:** [Muhammad Ibrahim](https://github.com/Mibrahimwali) — Founder & CEO · AI and Blockchain Builder
+
+*Building Today. Legacy Forever.*
+
+## Keywords
+
+Founder · Startup · Leadership · Entrepreneurship · CEO
+
+## Recent content
+
+<!-- RECENT_CONTENT -->
+
+| Article | Added |
+|---------|-------|
+
+Browse the full index in [INDEX.md](INDEX.md).
+
+## Related libraries
+
+<!-- RELATED_LIBRARIES -->
+
+
+- [ai-business-playbooks](https://github.com/Mibrahimwali/ai-business-playbooks)
+
+- [blockchain-enterprise-blueprints](https://github.com/Mibrahimwali/blockchain-enterprise-blueprints)
+
+- [future-of-ai-and-web3](https://github.com/Mibrahimwali/future-of-ai-and-web3)
+
+- [1000-startup-ideas](https://github.com/Mibrahimwali/1000-startup-ideas)
+
+- [system-design-for-founders](https://github.com/Mibrahimwali/system-design-for-founders)
+
+
+## License
+
+MIT — see [LICENSE](LICENSE).
