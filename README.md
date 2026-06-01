@@ -13,6 +13,7 @@ Founder · Startup · Leadership · Entrepreneurship · CEO
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Hiring Engineers for Early-Stage Startups](guides/2026/06/hiring-engineers-for-early-stage-startups.md) | Latest |
 
 | Article | Added |
 |---------|-------|
