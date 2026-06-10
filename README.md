@@ -13,6 +13,7 @@ Founder · Startup · Leadership · Entrepreneurship · CEO
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Managing Founder Burnout](guides/2026/06/managing-founder-burnout.md) | Latest |
 | [Building Remote-First Teams](guides/2026/06/building-remote-first-teams.md) | Latest |
 | [Hiring Engineers for Early-Stage Startups](guides/2026/06/hiring-engineers-for-early-stage-startups.md) | Latest |
 
