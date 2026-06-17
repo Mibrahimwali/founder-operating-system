@@ -6,3 +6,4 @@
 - [Hiring Engineers for Early-Stage Startups](guides/2026/06/hiring-engineers-for-early-stage-startups.md)
 - [Building Remote-First Teams](guides/2026/06/building-remote-first-teams.md)
 - [Managing Founder Burnout](guides/2026/06/managing-founder-burnout.md)
+- [Founder Productivity Systems](guides/2026/06/founder-productivity-systems.md)
