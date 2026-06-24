@@ -13,6 +13,7 @@ Founder · Startup · Leadership · Entrepreneurship · CEO
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Startup Culture on Day One](guides/2026/06/startup-culture-on-day-one.md) | Latest |
 | [Founder Productivity Systems](guides/2026/06/founder-productivity-systems.md) | Latest |
 | [Managing Founder Burnout](guides/2026/06/managing-founder-burnout.md) | Latest |
 | [Building Remote-First Teams](guides/2026/06/building-remote-first-teams.md) | Latest |

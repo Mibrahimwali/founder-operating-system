@@ -7,3 +7,4 @@
 - [Building Remote-First Teams](guides/2026/06/building-remote-first-teams.md)
 - [Managing Founder Burnout](guides/2026/06/managing-founder-burnout.md)
 - [Founder Productivity Systems](guides/2026/06/founder-productivity-systems.md)
+- [Startup Culture on Day One](guides/2026/06/startup-culture-on-day-one.md)
