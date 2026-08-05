@@ -13,6 +13,7 @@ Founder · Startup · Leadership · Entrepreneurship · CEO
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Board Meeting Operating Cadence](guides/2026/08/board-meeting-operating-cadence.md) | Latest |
 | [Fundraising Narrative for Seed Rounds](guides/2026/07/fundraising-narrative-for-seed-rounds.md) | Latest |
 | [Product Strategy for Pre-PMF Startups](guides/2026/07/product-strategy-for-pre-pmf-startups.md) | Latest |
 | [Startup Culture on Day One](guides/2026/06/startup-culture-on-day-one.md) | Latest |
