@@ -11,3 +11,4 @@
 - [Product Strategy for Pre-PMF Startups](guides/2026/07/product-strategy-for-pre-pmf-startups.md)
 - [Fundraising Narrative for Seed Rounds](guides/2026/07/fundraising-narrative-for-seed-rounds.md)
 - [Board Meeting Operating Cadence](guides/2026/08/board-meeting-operating-cadence.md)
+- [Equity and Option Pool Planning](guides/2026/09/equity-and-option-pool-planning.md)
