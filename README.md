@@ -13,6 +13,7 @@ Founder · Startup · Leadership · Entrepreneurship · CEO
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Customer Discovery Interview Playbook](guides/2026/11/customer-discovery-interview-playbook.md) | Latest |
 | [Equity and Option Pool Planning](guides/2026/09/equity-and-option-pool-planning.md) | Latest |
 | [Board Meeting Operating Cadence](guides/2026/08/board-meeting-operating-cadence.md) | Latest |
 | [Fundraising Narrative for Seed Rounds](guides/2026/07/fundraising-narrative-for-seed-rounds.md) | Latest |
